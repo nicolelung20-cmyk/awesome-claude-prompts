@@ -1,3 +1,11 @@
 data.csv
 main.py
 output.md
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa*
+*.p12
+config.ini
